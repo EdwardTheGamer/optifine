@@ -1,5 +1,5 @@
 # General
-of.general.ambiguous=ambiguo
+of.general.ambiguous=Ambiguo
 of.general.custom=Personalizza
 of.general.from=De
 of.general.id=ID
@@ -43,7 +43,7 @@ of.message.openglError=§eErrore di OpenGL§f: %s (%s)
 
 of.message.shaders.loading=Caricando le Shaders: %s
 
-of.message.other.reset=Ristabilire tutte le impostazioni grafiche?
+of.message.other.reset=Ripristinare tutte le impostazioni grafiche?
 
 of.message.loadingVisibleChunks=Caricando chunk visibili
 
@@ -54,10 +54,10 @@ of.options.skinCustomisation.ofCape=Mantello Optifine...
 # Impostazioni Video
 
 options.graphics.tooltip.1=Grafica
-options.graphics.tooltip.2=  Rapida  - qualità peggiore, prestazioni migliori
-options.graphics.tooltip.3=  Dettagliata - qualità migliore, prestazioni peggiori
+options.graphics.tooltip.2=  Rapida  - Qualità peggiore, Prestazioni Migliori
+options.graphics.tooltip.3=  Dettagliata - Qualità migliore, Prestazioni peggiori
 options.graphics.tooltip.4=Cambiamenti visibili nelle nuvole, foglie, acqua
-options.graphics.tooltip.5=ombre e lati dei blocchi d'erba.
+options.graphics.tooltip.5=Ombre e lati dei blocchi d'erba.
 
 of.options.renderDistance.tiny=Minima
 of.options.renderDistance.short=Corta
@@ -77,24 +77,24 @@ options.renderDistance.tooltip.7=  64 Ridicola - 1024m, richiede 3GB di RAM allo
 options.renderDistance.tooltip.8=Valori sopra 16 sono funzionanti solo in mondi locali.
 
 options.ao.tooltip.1=Luci soffuse
-options.ao.tooltip.2=  No - senza luci soffuse (veloce)
-options.ao.tooltip.3=  Minimo - luci soffuse semplici (lento)
-options.ao.tooltip.4=  Massimo - luci soffuse avanzate (più lento)
+options.ao.tooltip.2=  No - Senza luci soffuse (veloce)
+options.ao.tooltip.3=  Minimo - Luci soffuse semplici (lento)
+options.ao.tooltip.4=  Massimo - Luci soffuse avanzate (più lento)
 
 options.framerateLimit.tooltip.1=Limite di FPS
-options.framerateLimit.tooltip.2=  Sincronizzazione verticale - limita gli FPS secondo il tuo schermo (60, 30, 20)
-options.framerateLimit.tooltip.3=  5-255 - limite di FPS personalizzato
-options.framerateLimit.tooltip.4=  Senza limite - tutti gli FPS possibili (veloce)
+options.framerateLimit.tooltip.2=  Sincronizzazione verticale - limita gli FPS secondo il tuo schermo (144, 120, 60...)
+options.framerateLimit.tooltip.3=  5-255 - Limite di FPS personalizzato
+options.framerateLimit.tooltip.4=  Senza limite - Tutti gli FPS possibili (veloce)
 options.framerateLimit.tooltip.5=
-options.framerateLimit.tooltip.6=Impostando un limite di FPS, essi possono diminuire il
-options.framerateLimit.tooltip.7=Raggiungimento ad esso.
+options.framerateLimit.tooltip.6=Impostando un limite di FPS, essi possono diminuirne il
+options.framerateLimit.tooltip.7=numero al raggiungimento.
 of.options.framerateLimit.vsync=Sincronizzazione verticale
 
 of.options.AO_LEVEL=Livello di morbidezza
-of.options.AO_LEVEL.tooltip.1=livello di illuminazione morbida
-of.options.AO_LEVEL.tooltip.2=  No - senza ombre
-of.options.AO_LEVEL.tooltip.3=  50%% - poche ombre
-of.options.AO_LEVEL.tooltip.4=  100%% - ombre scure
+of.options.AO_LEVEL.tooltip.1=Livello di illuminazione morbida
+of.options.AO_LEVEL.tooltip.2=  No - Senza ombre
+of.options.AO_LEVEL.tooltip.3=  50%% - Poche ombre
+of.options.AO_LEVEL.tooltip.4=  100%% - Ombre scure
 options.viewBobbing.tooltip.1=Movimento più realistico.
 options.viewBobbing.tooltip.2=Disattivare l'utilizzo di mipmap per ottenere un miglior risultato.
 
@@ -104,7 +104,7 @@ options.guiScale.tooltip.3= Piccola, Normale, Grande - 1x verso 3x
 options.guiScale.tooltip.4= 4x verso 10x - disponibile su schermi 4K
 options.guiScale.tooltip.5=Valori dispari (1x, 3x, 5x ...) non compatibili con Unicode.
 options.guiScale.tooltip.6=Una GUI più piccola potrebbe migliorare le prestazioni.
-options.vbo.tooltip.1=Vertex Buffer Objects (abbreviato in VBO)
+options.vbo.tooltip.1=Vertex Buffer Objects (VBO)
 options.vbo.tooltip.2=In alternativa è il rendering che di solito è più
 options.vbo.tooltip.3=veloce (5-10%%) alla forma default.
 
@@ -128,9 +128,9 @@ of.options.ALTERNATE_BLOCKS.tooltip.3=Dipende dal pacchetto di risorse usato.
 
 of.options.FOG_FANCY=Nebbia
 of.options.FOG_FANCY.tooltip.1=Tipo di nebbia
-of.options.FOG_FANCY.tooltip.2=  Veloce - nebbia più veloce, sembra squallido
-of.options.FOG_FANCY.tooltip.3=  Dettagliata - nebbia più lenta, sembra migliore
-of.options.FOG_FANCY.tooltip.4=  No - senza foschia, super veloce
+of.options.FOG_FANCY.tooltip.2=  Veloce - Nebbia più veloce, sembra squallido
+of.options.FOG_FANCY.tooltip.3=  Dettagliata - Nebbia più lenta, sembra migliore
+of.options.FOG_FANCY.tooltip.4=  No - Senza foschia, super veloce
 of.options.FOG_FANCY.tooltip.5=La nebbia dettagliata è disponibile solo se
 of.options.FOG_FANCY.tooltip.6=la tua scheda grafica te lo permette.
 
@@ -192,9 +192,9 @@ of.options.mipmap.trilinear=Trilinere
 options.mipmapLevels.tooltip.1=Effetto visivo che consente di visualizzare oggetti distanti
 options.mipmapLevels.tooltip.2=migliori lisciando i dettagli della sua texture
 options.mipmapLevels.tooltip.3= 
-options.mipmapLevels.tooltip.4=  No - senza morbidezza
-options.mipmapLevels.tooltip.5=  1 - morbidezza minima
-options.mipmapLevels.tooltip.6=  4 - morbidezza massima
+options.mipmapLevels.tooltip.4=  No - Senza morbidezza
+options.mipmapLevels.tooltip.5=  1 - Morbidezza minima
+options.mipmapLevels.tooltip.6=  4 - Morbidezza massima
 options.mipmapLevels.tooltip.7= 
 options.mipmapLevels.tooltip.8=Normalmente questa opzione non influisce sulle prestazioni.
 
@@ -202,25 +202,25 @@ of.options.MIPMAP_TYPE=Tipo di mipmap
 of.options.MIPMAP_TYPE.tooltip.1=Effetto visivo che consente di visualizzare oggetti distanti
 of.options.MIPMAP_TYPE.tooltip.2=migliori lisciando i dettagli della sua texture
 of.options.MIPMAP_TYPE.tooltip.3= 
-of.options.MIPMAP_TYPE.tooltip.4=  Vicino - morbidezza scarsa (più veloce)
-of.options.MIPMAP_TYPE.tooltip.5=  Lineare - morbidezza normale
-of.options.MIPMAP_TYPE.tooltip.6=  Bilineare - morbidezza sottile
-of.options.MIPMAP_TYPE.tooltip.7=  Trilineare - morbidezza molto sottile (più lenta)
+of.options.MIPMAP_TYPE.tooltip.4=  Vicino - Morbidezza scarsa (più veloce)
+of.options.MIPMAP_TYPE.tooltip.5=  Lineare - Morbidezza normale
+of.options.MIPMAP_TYPE.tooltip.6=  Bilineare - Morbidezza sottile
+of.options.MIPMAP_TYPE.tooltip.7=  Trilineare - Morbidezza molto sottile (più lenta)
 
 of.options.ANTIALIASING=Antialiasing
 of.options.ANTIALIASING.tooltip.1=Antialiasing attenua linee e i bordi dei blocchi
 of.options.ANTIALIASING.tooltip.2= No - (per default) senza antialiasing (più veloce)
-of.options.ANTIALIASING.tooltip.3= FXAA 2x, 4x - livello di antialiasing morbido (più lento)
+of.options.ANTIALIASING.tooltip.3= FXAA 2x, 4x - Livello di antialiasing morbido (più lento)
 of.options.ANTIALIASING.tooltip.4= 
-of.options.ANTIALIASING.tooltip.5= Ammorbidisce i denti di sega e migliora la nitidezza.
-of.options.ANTIALIASING.tooltip.6= Gli FPS può diminuire considerevolmente quando attivato.
+of.options.ANTIALIASING.tooltip.5= Ammorbidisce i bordi seghettati e migliora la nitidezza.
+of.options.ANTIALIASING.tooltip.6= Gli FPS possono diminuire considerevolmente quando è attivo.
 of.options.ANTIALIASING.tooltip.7= Alcune schede grafiche non supportano tutti i livelli.
-of.options.ANTIALIASING.tooltip.8= La modifica verrà applicata per RIAVVIARE il gioco!
+of.options.ANTIALIASING.tooltip.8= La modifica verrà applicata al prossimo RIAVVIO del gioco!
 
 of.options.shaders.NORMAL_MAP=Mappatura normale
 of.options.shaders.NORMAL_MAP.tooltip.1=Mappatura normale
-of.options.shaders.NORMAL_MAP.tooltip.2=  Sì - (default) abilita mappatura normale
-of.options.shaders.NORMAL_MAP.tooltip.3=  No - disabilita mappatura normale
+of.options.shaders.NORMAL_MAP.tooltip.2=  Sì - (default) Abilita mappatura normale
+of.options.shaders.NORMAL_MAP.tooltip.3=  No - Disabilita mappatura normale
 of.options.shaders.NORMAL_MAP.tooltip.4= 
 of.options.shaders.NORMAL_MAP.tooltip.5= Le mappature normali possono essere usate dai pacchetti shader
 of.options.shaders.NORMAL_MAP.tooltip.6= per simulare geometria 3D su superfici piatte.
@@ -229,8 +229,8 @@ of.options.shaders.NORMAL_MAP.tooltip.8= da questo pacchetto di risorse.
 
 of.options.shaders.SPECULAR_MAP=Mappatura speculare
 of.options.shaders.SPECULAR_MAP.tooltip.1=Mappatura speculare
-of.options.shaders.SPECULAR_MAP.tooltip.2=  Sì - (default) abilita mappature speculari
-of.options.shaders.SPECULAR_MAP.tooltip.3=  No - disabilita mappature speculari
+of.options.shaders.SPECULAR_MAP.tooltip.2=  Sì - (default) Abilita mappature speculari
+of.options.shaders.SPECULAR_MAP.tooltip.3=  No - Disabilita mappature speculari
 of.options.shaders.SPECULAR_MAP.tooltip.4= 
 of.options.shaders.SPECULAR_MAP.tooltip.5= Le mappature speculari possono essere usate dai pacchetti shader
 of.options.shaders.SPECULAR_MAP.tooltip.6= per simulare speciali effetti di riflessione.
@@ -239,9 +239,9 @@ of.options.shaders.SPECULAR_MAP.tooltip.8= da questo pacchetto di risorse.
 
 of.options.shaders.RENDER_RES_MUL=Qualità rendering
 of.options.shaders.RENDER_RES_MUL.tooltip.1=Qualità rendering
-of.options.shaders.RENDER_RES_MUL.tooltip.2=  0.5x - bassa (più veloce)
-of.options.shaders.RENDER_RES_MUL.tooltip.3=  1x - normale (default)
-of.options.shaders.RENDER_RES_MUL.tooltip.4=  2x - alta (più lenta)
+of.options.shaders.RENDER_RES_MUL.tooltip.2=  0.5x - Bassa (più veloce)
+of.options.shaders.RENDER_RES_MUL.tooltip.3=  1x - Normale (default)
+of.options.shaders.RENDER_RES_MUL.tooltip.4=  2x - Alta (più lenta)
 of.options.shaders.RENDER_RES_MUL.tooltip.5= 
 of.options.shaders.RENDER_RES_MUL.tooltip.6= Qualità rendering controlla la grandezza delle texture
 of.options.shaders.RENDER_RES_MUL.tooltip.7= che il pacchetto shaders renderizza.
@@ -250,9 +250,9 @@ of.options.shaders.RENDER_RES_MUL.tooltip.9= Valori più alti funzionano come un
 
 of.options.shaders.SHADOW_RES_MUL=Qualità ombre
 of.options.shaders.SHADOW_RES_MUL.tooltip.1=Qualità ombre
-of.options.shaders.SHADOW_RES_MUL.tooltip.2=  0.5x - bassa (più veloce)
-of.options.shaders.SHADOW_RES_MUL.tooltip.3=  1x - normale (default)
-of.options.shaders.SHADOW_RES_MUL.tooltip.4=  2x - alta (più lenta)
+of.options.shaders.SHADOW_RES_MUL.tooltip.2=  0.5x - Bassa (più veloce)
+of.options.shaders.SHADOW_RES_MUL.tooltip.3=  1x - Normale (default)
+of.options.shaders.SHADOW_RES_MUL.tooltip.4=  2x - Alta (più lenta)
 of.options.shaders.SHADOW_RES_MUL.tooltip.5= 
 of.options.shaders.SHADOW_RES_MUL.tooltip.6= Qualità ombre controlla la grandezza della mappatura ombre
 of.options.shaders.SHADOW_RES_MUL.tooltip.7= utilizzata dal pacchetto di shaders.
@@ -308,13 +308,13 @@ of.options.AF_LEVEL.tooltip.6=Gli FPS possono diminuire considerevolmente quando
 
 of.options.CLEAR_WATER=Acqua cristallina
 of.options.CLEAR_WATER.tooltip.1=Acqua cristallina
-of.options.CLEAR_WATER.tooltip.2=  Sì - acqua limpida e trasparente
-of.options.CLEAR_WATER.tooltip.3=  No - acqua default
+of.options.CLEAR_WATER.tooltip.2=  Sì - Acqua limpida e trasparente
+of.options.CLEAR_WATER.tooltip.3=  No - Acqua default
 
 of.options.RANDOM_ENTITIES=Creature casuali
 of.options.RANDOM_ENTITIES.tooltip.1=Randomizza texture delle creature
-of.options.RANDOM_ENTITIES.tooltip.2=  No - non casuale, più veloce
-of.options.RANDOM_ENTITIES.tooltip.3=  Sì - con randomizzazione, più lento
+of.options.RANDOM_ENTITIES.tooltip.2=  No - Non casuale, più veloce
+of.options.RANDOM_ENTITIES.tooltip.3=  Sì - Con randomizzazione, più lento
 of.options.RANDOM_ENTITIES.tooltip.4=
 of.options.RANDOM_ENTITIES.tooltip.5=Questa opzione permette alle creature di cambiare texture.
 of.options.RANDOM_ENTITIES.tooltip.6=Richiede un pacchetto di risorse che abbia molteplici texture
@@ -328,8 +328,8 @@ of.options.BETTER_GRASS.tooltip.4=  Dettagliata - texture dinamica, molto lento
 
 of.options.BETTER_SNOW=Neve migliorata
 of.options.BETTER_SNOW.tooltip.1=Neve migliorata
-of.options.BETTER_SNOW.tooltip.2=  No - neve default, più veloce
-of.options.BETTER_SNOW.tooltip.3=  Sì - neve dettagliata, più lento
+of.options.BETTER_SNOW.tooltip.2=  No - Neve default, più veloce
+of.options.BETTER_SNOW.tooltip.3=  Sì - Neve dettagliata, più lento
 of.options.BETTER_SNOW.tooltip.4= 
 of.options.BETTER_SNOW.tooltip.5=Mostra la neve sotto i blocchi trasparenti
 of.options.BETTER_SNOW.tooltip.6=(Recinzioni, erba) quando li si confina con la neve.
