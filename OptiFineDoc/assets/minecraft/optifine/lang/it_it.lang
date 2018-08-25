@@ -1,5 +1,5 @@
 # General
-of.general.ambiguous=ambiguo
+of.general.ambiguous=Ambiguo
 of.general.custom=Personalizza
 of.general.from=De
 of.general.id=ID
@@ -456,8 +456,8 @@ of.options.RAIN.tooltip.3=  Rapida - pioggia / neve leggera, più veloce
 of.options.RAIN.tooltip.4=  Dettagliata - pioggia / neve pesante, lento
 of.options.RAIN.tooltip.5=  No - senza neve e pioggia, velocissimo
 of.options.RAIN.tooltip.6=
-of.options.RAIN.tooltip.7=Anche se la pioggia è disattivata, i suoi suoni si
-of.options.RAIN.tooltip.8=possono comunque sentire.
+of.options.RAIN.tooltip.7=Anche se la pioggia è disattivata, i suoi suoni di
+of.options.RAIN.tooltip.8=essa sono ascoltabili.
 
 of.options.SKY=Cielo
 of.options.SKY.tooltip.1=Cielo
@@ -465,7 +465,7 @@ of.options.SKY.tooltip.2=  Sì - cielo visibile, più lento
 of.options.SKY.tooltip.3=  No - cielo non visibile, più veloce
 of.options.SKY.tooltip.4= 
 of.options.SKY.tooltip.5=Anche se disabilitato, la Luna e il Sole si possono
-of.options.SKY.tooltip.6=sempre vedere.
+of.options.SKY.tooltip.6=comunque vedere.
 
 of.options.STARS=Cielo stellato
 of.options.STARS.tooltip.1=Visibilità di stelle nel cielo notturno
@@ -480,7 +480,7 @@ of.options.SUN_MOON.tooltip.3=  No - Il Sole e la Luna non sono visibili (veloce
 of.options.SHOW_CAPES=Mantelli
 of.options.SHOW_CAPES.tooltip.1=Mantelli dei giocatori
 of.options.SHOW_CAPES.tooltip.2=  Sì - mostrare i mantelli dei giocatori
-of.options.SHOW_CAPES.tooltip.3=  No - occultare i mantelli dei giocatori
+of.options.SHOW_CAPES.tooltip.3=  No - nascondere i mantelli dei giocatori
 
 of.options.TRANSLUCENT_BLOCKS=Blocchi traslucidi
 of.options.TRANSLUCENT_BLOCKS.tooltip.1=Qualità dei blocchi traslucidi
